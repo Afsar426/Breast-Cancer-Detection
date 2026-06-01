@@ -1,0 +1,8 @@
+streamlit==1.45.1
+fastapi==0.115.12
+uvicorn==0.34.3
+numpy==2.3.0
+pandas==2.3.0
+scikit-learn==1.7.0
+python-multipart==0.0.20
+joblib==1.5.1
