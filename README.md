@@ -6,6 +6,8 @@
 [![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 
+🔗 **Live Demo Portal:** [https://Afsar426.github.io/Breast-Cancer-Detection/](https://Afsar426.github.io/Breast-Cancer-Detection/)
+
 MammoSense AI is a full-stack Artificial Intelligence healthcare decision-support platform designed to assist in the early detection and classification of breast cancer using Machine Learning. 
 
 The system analyzes medical diagnostic measurements obtained from breast tumor needle-aspirate examinations to classify tumors as **Benign (Non-Cancerous)** or **Malignant (Cancerous)**. It features Explainable AI (XAI) feature attributions, a clinical recommendation engine, dynamic comparative insights, and automated PDF medical report downloads.
