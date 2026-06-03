@@ -1,0 +1,25 @@
+# Frontend build and dependencies
+frontend/node_modules/
+frontend/dist/
+node_modules/
+dist/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Backend SQLite Database
+backend/data/patients.db
+backend/data/*.db
+
+# OS files
+.DS_Store
+Thumbs.db

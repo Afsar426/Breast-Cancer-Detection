@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Radius Mean",
+        "lr": 0.4319,
+        "rf": 0.0487
+    },
+    {
+        "name": "Texture Mean",
+        "lr": 0.3873,
+        "rf": 0.0136
+    },
+    {
+        "name": "Perimeter Mean",
+        "lr": 0.3934,
+        "rf": 0.0533
+    },
+    {
+        "name": "Area Mean",
+        "lr": 0.4652,
+        "rf": 0.0476
+    },
+    {
+        "name": "Smoothness Mean",
+        "lr": 0.0717,
+        "rf": 0.0073
+    },
+    {
+        "name": "Compactness Mean",
+        "lr": 0.5402,
+        "rf": 0.0139
+    },
+    {
+        "name": "Concavity Mean",
+        "lr": 0.8015,
+        "rf": 0.068
+    },
+    {
+        "name": "Concave Points Mean",
+        "lr": 1.1198,
+        "rf": 0.1062
+    },
+    {
+        "name": "Symmetry Mean",
+        "lr": 0.2361,
+        "rf": 0.0038
+    },
+    {
+        "name": "Fractal Dimension Mean",
+        "lr": 0.0759,
+        "rf": 0.0039
+    },
+    {
+        "name": "Radius Se",
+        "lr": 1.2682,
+        "rf": 0.0201
+    },
+    {
+        "name": "Texture Se",
+        "lr": 0.1889,
+        "rf": 0.0047
+    },
+    {
+        "name": "Perimeter Se",
+        "lr": 0.6106,
+        "rf": 0.0113
+    },
+    {
+        "name": "Area Se",
+        "lr": 0.9072,
+        "rf": 0.0224
+    },
+    {
+        "name": "Smoothness Se",
+        "lr": 0.3133,
+        "rf": 0.0043
+    },
+    {
+        "name": "Compactness Se",
+        "lr": 0.6825,
+        "rf": 0.0053
+    },
+    {
+        "name": "Concavity Se",
+        "lr": 0.1753,
+        "rf": 0.0094
+    },
+    {
+        "name": "Concave Points Se",
+        "lr": 0.3113,
+        "rf": 0.0035
+    },
+    {
+        "name": "Symmetry Se",
+        "lr": 0.5004,
+        "rf": 0.004
+    },
+    {
+        "name": "Fractal Dimension Se",
+        "lr": 0.6162,
+        "rf": 0.0053
+    },
+    {
+        "name": "Radius Worst",
+        "lr": 0.8798,
+        "rf": 0.078
+    },
+    {
+        "name": "Texture Worst",
+        "lr": 1.3506,
+        "rf": 0.0217
+    },
+    {
+        "name": "Perimeter Worst",
+        "lr": 0.5895,
+        "rf": 0.0671
+    },
+    {
+        "name": "Area Worst",
+        "lr": 0.8418,
+        "rf": 0.1539
+    },
+    {
+        "name": "Smoothness Worst",
+        "lr": 0.5442,
+        "rf": 0.0106
+    },
+    {
+        "name": "Compactness Worst",
+        "lr": 0.0161,
+        "rf": 0.0203
+    },
+    {
+        "name": "Concavity Worst",
+        "lr": 0.9431,
+        "rf": 0.0318
+    },
+    {
+        "name": "Concave Points Worst",
+        "lr": 0.7782,
+        "rf": 0.1447
+    },
+    {
+        "name": "Symmetry Worst",
+        "lr": 1.2082,
+        "rf": 0.0101
+    },
+    {
+        "name": "Fractal Dimension Worst",
+        "lr": 0.1574,
+        "rf": 0.0052
+    }
+]
