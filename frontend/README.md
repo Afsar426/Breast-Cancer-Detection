@@ -23,7 +23,7 @@ export default defineConfig([
     extends: [
       // Other configs...
 
-      // Remove tseslint.configs.recommended and replace with this
+      // Remove tseslint.configs.recommended and replace with this all 
       tseslint.configs.recommendedTypeChecked,
       // Alternatively, use this for stricter rules
       tseslint.configs.strictTypeChecked,
@@ -66,7 +66,7 @@ export default defineConfig([
         project: ['./tsconfig.node.json', './tsconfig.app.json'],
         tsconfigRootDir: import.meta.dirname,
       },
-      // other options...
+      // other options....
     },
   },
 ])
